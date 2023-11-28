@@ -13,4 +13,3 @@ mkdir -p ~/.config/ulauncher/user-themes
 git clone https://github.com/benwmx/Breeze-Dark.git \
   ~/.config/ulauncher/user-themes/BreezeDark
 ```
-https://github.com/benwmx/Breeze-Dark.git
